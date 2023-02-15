@@ -1,4 +1,4 @@
-# Moduł 02 HTML tags 
+# Module 02 HTML tags 
 ## Opis strony internetowej.
 This website was written as homework for Module 02 of the Frontend Developer course. The topic of the lesson was to familiarize yourself with HTML tags. In order to better consolidate the learned material, as part of the exercise, I described the learned tags in my own words and presented examples of their use.
 ## List of known tags:
