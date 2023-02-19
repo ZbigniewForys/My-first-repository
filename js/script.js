@@ -1,5 +1,3 @@
-console.log("Niech będzie pozdrowiony Jarosław - zawsze dziewica");
-
 let przycisk = document.querySelector(".przycisk");
 let strona = document.querySelector(".strona");
 let zapamietaj_strone = strona.innerHTML;
